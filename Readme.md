@@ -1,3 +1,6 @@
+Link to the site : 
+https://dhirajsgithub.github.io/React_module_18/
+
 # 1. useState() hook 
 * ### It allows us to manage state in functional based componenet of react, can be initialize with any value.
 * ### useState always return two value in an array, the firselement being current state snap shot for the rerender cycle of the component and second is state updating function, helpful to change the current state
